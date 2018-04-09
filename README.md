@@ -15,10 +15,10 @@ If you are insterested in using this with [p5.js](https://p5js.org/), ITP has cr
 ## Emoji
 
 This version of teachable machine let user teach the program to translate movements into Emojis
-[] List of Emojis
-[] Let user pick one for each training model
-[] an output of the emojis based on trained movements
-[] A new section of the page there you can use the movements for emoji guessing game:
+- List of Emojis
+- Let user pick one for each training model
+- an output of the emojis based on trained movements
+- A new section of the page there you can use the movements for emoji guessing game:
 as you move, emoji is printed.
 
 ## Use code
